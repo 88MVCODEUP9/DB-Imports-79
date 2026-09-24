@@ -132,11 +132,14 @@
           "hex": "#ded8ca"
         }
       ],
-      "image": "assets/essentials.png",
+      "image": "https://imgs.search.brave.com/aC4KqF2fALdQMvmbK6kYeQuVQ0lePd_LTgDTVDozPJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L3ZldG9yZXMtZ3Jh/dGlzL21vZGVsb3Mt/ZGUtY2FtaXNhcy1k/ZS1mdXRlYm9sLXBy/b2Zpc3Npb25hbC1j/b20tdGV4dHVyYXMt/ZGUtY2FtaXNldGEt/YXRsZXRpY2EtcGVy/c29uYWxpemF2ZWlz/XzI5MDk2LTUwOTQu/anBnP3NlbXQ9YWlz/X2h5YnJpZCZ3PTc0/MCZxPTgw",
       "tile": 3,
       "published": true,
       "tag": "NIGHT EDITION",
-      "demo": true
+      "demo": true,
+      "images": [
+        "https://imgs.search.brave.com/aC4KqF2fALdQMvmbK6kYeQuVQ0lePd_LTgDTVDozPJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L3ZldG9yZXMtZ3Jh/dGlzL21vZGVsb3Mt/ZGUtY2FtaXNhcy1k/ZS1mdXRlYm9sLXBy/b2Zpc3Npb25hbC1j/b20tdGV4dHVyYXMt/ZGUtY2FtaXNldGEt/YXRsZXRpY2EtcGVy/c29uYWxpemF2ZWlz/XzI5MDk2LTUwOTQu/anBnP3NlbXQ9YWlz/X2h5YnJpZCZ3PTc0/MCZxPTgw"
+      ]
     }
   ]
 }
