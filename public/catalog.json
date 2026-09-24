@@ -200,34 +200,6 @@
       "demo": true
     },
     {
-      "id": "db-008",
-      "name": "Jaqueta Gold Statement",
-      "category": "Jaquetas",
-      "price": 249.9,
-      "description": "Tonalidade bronze e visual marcante. Uma camada extra de personalidade para o seu guarda-roupa.",
-      "sizes": [
-        "P",
-        "M",
-        "G",
-        "GG"
-      ],
-      "colors": [
-        {
-          "name": "Bronze",
-          "hex": "#956e3c"
-        },
-        {
-          "name": "Preto",
-          "hex": "#181818"
-        }
-      ],
-      "image": "assets/urban.png",
-      "tile": 3,
-      "published": true,
-      "tag": "GOLD EDITION",
-      "demo": true
-    },
-    {
       "id": "db-009",
       "name": "Camisa Night Edition (Cópia)",
       "category": "Camisas & Polos",
