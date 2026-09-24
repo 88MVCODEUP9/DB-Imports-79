@@ -226,6 +226,34 @@
       "published": true,
       "tag": "GOLD EDITION",
       "demo": true
+    },
+    {
+      "id": "db-009",
+      "name": "Camisa Night Edition (Cópia)",
+      "category": "Camisas & Polos",
+      "price": 139.9,
+      "description": "Camisa de manga curta com linhas limpas e acabamento minimalista. Do encontro casual à saída à noite.",
+      "sizes": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "colors": [
+        {
+          "name": "Preto",
+          "hex": "#181818"
+        },
+        {
+          "name": "Off-white",
+          "hex": "#ded8ca"
+        }
+      ],
+      "image": "assets/essentials.png",
+      "tile": 3,
+      "published": true,
+      "tag": "NIGHT EDITION",
+      "demo": true
     }
   ]
 }
