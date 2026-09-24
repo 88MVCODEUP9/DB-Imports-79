@@ -230,14 +230,13 @@
     {
       "image": "assets/essentials.png",
       "published": true,
-      "description": "temp",
+      "description": "temp2",
       "sizes": [
-        "P",
-        "M"
+        "P"
       ],
-      "price": 1.99,
+      "price": 9.99,
       "category": "Camisetas",
-      "name": "TESTE PONNY",
+      "name": "TESTE EDITED",
       "tag": "",
       "tile": 0,
       "colors": [
