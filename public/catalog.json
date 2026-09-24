@@ -1,38 +1,6 @@
 {
   "products": [
     {
-      "id": "db-001",
-      "name": "Camiseta Oversized Essential",
-      "category": "Camisetas",
-      "price": 89.9,
-      "description": "Silhueta ampla, ombros deslocados e um visual que combina com o seu dia. Uma peça versátil para compor o look.",
-      "sizes": [
-        "P",
-        "M",
-        "G",
-        "GG"
-      ],
-      "colors": [
-        {
-          "name": "Preto",
-          "hex": "#181818"
-        },
-        {
-          "name": "Off-white",
-          "hex": "#ded8ca"
-        },
-        {
-          "name": "Cinza",
-          "hex": "#727774"
-        }
-      ],
-      "image": "assets/essentials.png",
-      "tile": 0,
-      "published": true,
-      "tag": "ESSENCIAL",
-      "demo": true
-    },
-    {
       "id": "db-002",
       "name": "Polo Texture Off-white",
       "category": "Camisas & Polos",
