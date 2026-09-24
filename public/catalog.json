@@ -169,38 +169,6 @@
       "published": true,
       "tag": "NIGHT EDITION",
       "demo": true
-    },
-    {
-      "id": "db-006",
-      "name": "Calça Cargo Black",
-      "category": "Calças",
-      "price": 179.9,
-      "description": "Modelagem utilitária, bolsos laterais e presença urbana. Feita para compor o look completo.",
-      "sizes": [
-        "38",
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "colors": [
-        {
-          "name": "Preto",
-          "hex": "#181818"
-        },
-        {
-          "name": "Areia",
-          "hex": "#a08c70"
-        }
-      ],
-      "image": "https://i.pinimg.com/736x/39/14/27/3914274df0018780d5d8f7f8b7d28d36.jpg",
-      "tile": 1,
-      "published": true,
-      "tag": "",
-      "demo": true,
-      "images": [
-        "https://i.pinimg.com/736x/39/14/27/3914274df0018780d5d8f7f8b7d28d36.jpg"
-      ]
     }
   ]
 }
