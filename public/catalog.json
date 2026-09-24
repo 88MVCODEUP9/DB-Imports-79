@@ -6,11 +6,25 @@
       "category": "Camisetas",
       "price": 89.9,
       "description": "Silhueta ampla, ombros deslocados e um visual que combina com o seu dia. Uma peça versátil para compor o look.",
-      "sizes": ["P", "M", "G", "GG"],
+      "sizes": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
       "colors": [
-        { "name": "Preto", "hex": "#181818" },
-        { "name": "Off-white", "hex": "#ded8ca" },
-        { "name": "Cinza", "hex": "#727774" }
+        {
+          "name": "Preto",
+          "hex": "#181818"
+        },
+        {
+          "name": "Off-white",
+          "hex": "#ded8ca"
+        },
+        {
+          "name": "Cinza",
+          "hex": "#727774"
+        }
       ],
       "image": "assets/essentials.png",
       "tile": 0,
@@ -24,10 +38,21 @@
       "category": "Camisas & Polos",
       "price": 119.9,
       "description": "Textura marcante e um caimento leve. O equilíbrio entre o casual e o sofisticado para sair do básico.",
-      "sizes": ["P", "M", "G", "GG"],
+      "sizes": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
       "colors": [
-        { "name": "Off-white", "hex": "#ded8ca" },
-        { "name": "Preto", "hex": "#181818" }
+        {
+          "name": "Off-white",
+          "hex": "#ded8ca"
+        },
+        {
+          "name": "Preto",
+          "hex": "#181818"
+        }
       ],
       "image": "assets/essentials.png",
       "tile": 1,
@@ -41,10 +66,22 @@
       "category": "Bermudas",
       "price": 129.9,
       "description": "Bolsos utilitários e modelagem confortável. Um complemento para camisetas amplas e produções urbanas.",
-      "sizes": ["38", "40", "42", "44", "46"],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
       "colors": [
-        { "name": "Areia", "hex": "#a08c70" },
-        { "name": "Preto", "hex": "#181818" }
+        {
+          "name": "Areia",
+          "hex": "#a08c70"
+        },
+        {
+          "name": "Preto",
+          "hex": "#181818"
+        }
       ],
       "image": "assets/urban.png",
       "tile": 0,
@@ -58,10 +95,18 @@
       "category": "Acessórios",
       "price": 69.9,
       "description": "Design discreto, aba curva e ajuste posterior. O detalhe que completa o visual.",
-      "sizes": ["Único"],
+      "sizes": [
+        "Único"
+      ],
       "colors": [
-        { "name": "Preto", "hex": "#181818" },
-        { "name": "Cinza", "hex": "#727774" }
+        {
+          "name": "Preto",
+          "hex": "#181818"
+        },
+        {
+          "name": "Cinza",
+          "hex": "#727774"
+        }
       ],
       "image": "assets/urban.png",
       "tile": 2,
@@ -75,10 +120,21 @@
       "category": "Camisetas",
       "price": 89.9,
       "description": "Tonalidade stone, corte amplo e personalidade. Um essencial para combinar sem esforço.",
-      "sizes": ["P", "M", "G", "GG"],
+      "sizes": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
       "colors": [
-        { "name": "Cinza", "hex": "#727774" },
-        { "name": "Preto", "hex": "#181818" }
+        {
+          "name": "Cinza",
+          "hex": "#727774"
+        },
+        {
+          "name": "Preto",
+          "hex": "#181818"
+        }
       ],
       "image": "assets/essentials.png",
       "tile": 2,
@@ -92,10 +148,21 @@
       "category": "Camisas & Polos",
       "price": 139.9,
       "description": "Camisa de manga curta com linhas limpas e acabamento minimalista. Do encontro casual à saída à noite.",
-      "sizes": ["P", "M", "G", "GG"],
+      "sizes": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
       "colors": [
-        { "name": "Preto", "hex": "#181818" },
-        { "name": "Off-white", "hex": "#ded8ca" }
+        {
+          "name": "Preto",
+          "hex": "#181818"
+        },
+        {
+          "name": "Off-white",
+          "hex": "#ded8ca"
+        }
       ],
       "image": "assets/essentials.png",
       "tile": 3,
@@ -109,10 +176,22 @@
       "category": "Calças",
       "price": 179.9,
       "description": "Modelagem utilitária, bolsos laterais e presença urbana. Feita para compor o look completo.",
-      "sizes": ["38", "40", "42", "44", "46"],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
       "colors": [
-        { "name": "Preto", "hex": "#181818" },
-        { "name": "Areia", "hex": "#a08c70" }
+        {
+          "name": "Preto",
+          "hex": "#181818"
+        },
+        {
+          "name": "Areia",
+          "hex": "#a08c70"
+        }
       ],
       "image": "assets/urban.png",
       "tile": 1,
@@ -126,16 +205,49 @@
       "category": "Jaquetas",
       "price": 249.9,
       "description": "Tonalidade bronze e visual marcante. Uma camada extra de personalidade para o seu guarda-roupa.",
-      "sizes": ["P", "M", "G", "GG"],
+      "sizes": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
       "colors": [
-        { "name": "Bronze", "hex": "#956e3c" },
-        { "name": "Preto", "hex": "#181818" }
+        {
+          "name": "Bronze",
+          "hex": "#956e3c"
+        },
+        {
+          "name": "Preto",
+          "hex": "#181818"
+        }
       ],
       "image": "assets/urban.png",
       "tile": 3,
       "published": true,
       "tag": "GOLD EDITION",
       "demo": true
+    },
+    {
+      "image": "assets/essentials.png",
+      "published": true,
+      "description": "temp",
+      "sizes": [
+        "P",
+        "M"
+      ],
+      "price": 1.99,
+      "category": "Camisetas",
+      "name": "TESTE PONNY",
+      "tag": "",
+      "tile": 0,
+      "colors": [
+        {
+          "name": "Preto",
+          "hex": "#181818"
+        }
+      ],
+      "id": "db-009",
+      "demo": false
     }
   ]
 }
