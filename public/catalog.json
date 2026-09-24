@@ -226,27 +226,6 @@
       "published": true,
       "tag": "GOLD EDITION",
       "demo": true
-    },
-    {
-      "image": "assets/essentials.png",
-      "published": true,
-      "description": "temp2",
-      "sizes": [
-        "P"
-      ],
-      "price": 9.99,
-      "category": "Camisetas",
-      "name": "TESTE EDITED",
-      "tag": "",
-      "tile": 0,
-      "colors": [
-        {
-          "name": "Preto",
-          "hex": "#181818"
-        }
-      ],
-      "id": "db-009",
-      "demo": false
     }
   ]
 }
