@@ -1,0 +1,141 @@
+{
+  "products": [
+    {
+      "id": "db-001",
+      "name": "Camiseta Oversized Essential",
+      "category": "Camisetas",
+      "price": 89.9,
+      "description": "Silhueta ampla, ombros deslocados e um visual que combina com o seu dia. Uma peça versátil para compor o look.",
+      "sizes": ["P", "M", "G", "GG"],
+      "colors": [
+        { "name": "Preto", "hex": "#181818" },
+        { "name": "Off-white", "hex": "#ded8ca" },
+        { "name": "Cinza", "hex": "#727774" }
+      ],
+      "image": "assets/essentials.png",
+      "tile": 0,
+      "published": true,
+      "tag": "ESSENCIAL",
+      "demo": true
+    },
+    {
+      "id": "db-002",
+      "name": "Polo Texture Off-white",
+      "category": "Camisas & Polos",
+      "price": 119.9,
+      "description": "Textura marcante e um caimento leve. O equilíbrio entre o casual e o sofisticado para sair do básico.",
+      "sizes": ["P", "M", "G", "GG"],
+      "colors": [
+        { "name": "Off-white", "hex": "#ded8ca" },
+        { "name": "Preto", "hex": "#181818" }
+      ],
+      "image": "assets/essentials.png",
+      "tile": 1,
+      "published": true,
+      "tag": "DESTAQUE",
+      "demo": true
+    },
+    {
+      "id": "db-005",
+      "name": "Bermuda Cargo Sand",
+      "category": "Bermudas",
+      "price": 129.9,
+      "description": "Bolsos utilitários e modelagem confortável. Um complemento para camisetas amplas e produções urbanas.",
+      "sizes": ["38", "40", "42", "44", "46"],
+      "colors": [
+        { "name": "Areia", "hex": "#a08c70" },
+        { "name": "Preto", "hex": "#181818" }
+      ],
+      "image": "assets/urban.png",
+      "tile": 0,
+      "published": true,
+      "tag": "URBAN",
+      "demo": true
+    },
+    {
+      "id": "db-007",
+      "name": "Boné Signature Black",
+      "category": "Acessórios",
+      "price": 69.9,
+      "description": "Design discreto, aba curva e ajuste posterior. O detalhe que completa o visual.",
+      "sizes": ["Único"],
+      "colors": [
+        { "name": "Preto", "hex": "#181818" },
+        { "name": "Cinza", "hex": "#727774" }
+      ],
+      "image": "assets/urban.png",
+      "tile": 2,
+      "published": true,
+      "tag": "",
+      "demo": true
+    },
+    {
+      "id": "db-003",
+      "name": "Camiseta Oversized Stone",
+      "category": "Camisetas",
+      "price": 89.9,
+      "description": "Tonalidade stone, corte amplo e personalidade. Um essencial para combinar sem esforço.",
+      "sizes": ["P", "M", "G", "GG"],
+      "colors": [
+        { "name": "Cinza", "hex": "#727774" },
+        { "name": "Preto", "hex": "#181818" }
+      ],
+      "image": "assets/essentials.png",
+      "tile": 2,
+      "published": true,
+      "tag": "",
+      "demo": true
+    },
+    {
+      "id": "db-004",
+      "name": "Camisa Night Edition",
+      "category": "Camisas & Polos",
+      "price": 139.9,
+      "description": "Camisa de manga curta com linhas limpas e acabamento minimalista. Do encontro casual à saída à noite.",
+      "sizes": ["P", "M", "G", "GG"],
+      "colors": [
+        { "name": "Preto", "hex": "#181818" },
+        { "name": "Off-white", "hex": "#ded8ca" }
+      ],
+      "image": "assets/essentials.png",
+      "tile": 3,
+      "published": true,
+      "tag": "NIGHT EDITION",
+      "demo": true
+    },
+    {
+      "id": "db-006",
+      "name": "Calça Cargo Black",
+      "category": "Calças",
+      "price": 179.9,
+      "description": "Modelagem utilitária, bolsos laterais e presença urbana. Feita para compor o look completo.",
+      "sizes": ["38", "40", "42", "44", "46"],
+      "colors": [
+        { "name": "Preto", "hex": "#181818" },
+        { "name": "Areia", "hex": "#a08c70" }
+      ],
+      "image": "assets/urban.png",
+      "tile": 1,
+      "published": true,
+      "tag": "",
+      "demo": true
+    },
+    {
+      "id": "db-008",
+      "name": "Jaqueta Gold Statement",
+      "category": "Jaquetas",
+      "price": 249.9,
+      "description": "Tonalidade bronze e visual marcante. Uma camada extra de personalidade para o seu guarda-roupa.",
+      "sizes": ["P", "M", "G", "GG"],
+      "colors": [
+        { "name": "Bronze", "hex": "#956e3c" },
+        { "name": "Preto", "hex": "#181818" }
+      ],
+      "image": "assets/urban.png",
+      "tile": 3,
+      "published": true,
+      "tag": "GOLD EDITION",
+      "demo": true
+    }
+  ]
+}
